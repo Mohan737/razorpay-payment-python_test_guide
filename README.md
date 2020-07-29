@@ -48,6 +48,7 @@ For activating the virtual environment name test_env. We can give any name to th
 				
 	You will get a local address, enter the address in your browser. and that's it.
 
+For making test payment use the [test cards](https://razorpay.com/docs/payment-gateway/test-card-details/).
 Later after the payment you can see that the payment is reflected in Transactions option in your Razorpay Dashboard.
 			
 			
