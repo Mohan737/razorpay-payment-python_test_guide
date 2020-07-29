@@ -1,4 +1,4 @@
-# razorpay-payment-python_testing
+# razorpay-payment-python_test_guide
 Payment with Razorpay using python and flask
 
 With reference from the following:-
