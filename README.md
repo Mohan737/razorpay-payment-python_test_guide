@@ -32,7 +32,7 @@ Used :- razorpay = 1.2.0, python3
 
 		> python3 -m venv test_env
 
-For activating the virtual environment name test_env. We can give any name to the virtual environment(default is "venv")
+For activating the virtual environment name test_env. We can give any name to the virtual environment, here we have given "test_env" (default is "venv")
 
 		> test_env\Scripts\activate
 			
